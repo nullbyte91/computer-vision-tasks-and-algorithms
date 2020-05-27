@@ -1,0 +1,22 @@
+= OpenVino For People Counter
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title: Table of Contents
+
+toc::[]
+
+== Introduction
+List of computer vision tasks with code
+
+== Face Detection
+=== CNN based face detctor from dlib
+https://github.com/nullbyte91/computer-vision-tasks-and-algorithms/blob/master/face_detection/dlib-cnn.py[dlib-cnn.py @ *GitHub*]
+
+=== HOG + SVM based face detctor from dlib
+https://github.com/nullbyte91/computer-vision-tasks-and-algorithms/blob/master/face_detection/dlib-hog.py[dlib-hog.py @ *GitHub*]
