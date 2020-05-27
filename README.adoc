@@ -20,3 +20,6 @@ https://github.com/nullbyte91/computer-vision-tasks-and-algorithms/blob/master/f
 
 === HOG + SVM based face detctor from dlib
 https://github.com/nullbyte91/computer-vision-tasks-and-algorithms/blob/master/face_detection/dlib-hog.py[dlib-hog.py @ *GitHub*]
+
+=== RES10_300_300 based detection
+https://github.com/nullbyte91/computer-vision-tasks-and-algorithms/blob/master/face_detection/res10_300.py[res10_300.py @ *GitHub*]
